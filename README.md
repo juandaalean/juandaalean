@@ -55,8 +55,7 @@ These are the systems and tools I use to make development as optimal as possible
 ---
 
 ## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juanda-alean-medina)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanda-alean-medina)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanalean2525@gmail.com)
 
 ---
