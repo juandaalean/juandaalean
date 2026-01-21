@@ -1,4 +1,4 @@
-# 💻 Hi there, I'm { Juan David Alean Medina } 👋
+# 💻 Hi there, I'm { JuanDa } 👋
 
 🎯 **Mobile & .NET Junior Developer** passionate about building high-quality applications, learning continuously, and exploring new technologies. I love transforming ideas into real, scalable solutions.
 
