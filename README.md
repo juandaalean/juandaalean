@@ -2,7 +2,7 @@
 
 🎯 **Mobile & .NET Junior Developer** passionate about building high-quality applications, learning continuously, and exploring new technologies. I love transforming ideas into real, scalable solutions.
 
-### 🎓 Graduate of a higher degree in multiplatform application development (DAM)
+### 🎓 Graduate in multiplatform application development (DAM)
 
 During my training to become a software developer, I've encountered many challenging and challenging moments, but I'm always happy to learn something new every day.
 I'm exploring everything this world has to offer, as I have extensive experience in real-world projects using different technologies.
