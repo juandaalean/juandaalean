@@ -45,15 +45,6 @@ These are the systems and tools I use to make development as optimal as possible
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=juandaalean&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandaalean&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanda-alean-medina)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanalean2525@gmail.com)
