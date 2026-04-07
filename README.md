@@ -20,11 +20,11 @@ I'm a developer focused on creating clean, scalable, and maintainable solutions.
 
 ### Languages
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frontend development
 
@@ -34,10 +34,10 @@ I'm a developer focused on creating clean, scalable, and maintainable solutions.
 
 ### Frameworks
 
-![Android Jetpack Badge](https://img.shields.io/badge/android%20jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework Badge](https://img.shields.io/badge/entity%20framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PyQt5 Badge](https://img.shields.io/badge/pyqt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Android Jetpack Badge](https://img.shields.io/badge/android%20jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Databases
 
