@@ -20,39 +20,39 @@ I'm a developer focused on creating clean, scalable, and maintainable solutions.
 
 ### Languages
 
-[![Java Badge](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
-[![Kotlin Badge](https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![C# Badge](https://img.shields.io/badge/c%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Python Badge](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frontend development
 
-[![HTML5 Badge](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
-[![React Badge](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Frameworks
 
-[![Android Jetpack Badge](https://img.shields.io/badge/android%20jetpack-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/jetpack)
-[![.NET Badge](https://img.shields.io/badge/.net-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Entity Framework Badge](https://img.shields.io/badge/entity%20framework-512BD4?style=flat&logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
-[![PyQt5 Badge](https://img.shields.io/badge/pyqt5-41CD52?style=flat&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
+![Android Jetpack Badge](https://img.shields.io/badge/android%20jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework Badge](https://img.shields.io/badge/entity%20framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PyQt5 Badge](https://img.shields.io/badge/pyqt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Databases
 
-[![MySQL Badge](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL Badge](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+![MySQL Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### General
 
-[![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git Badge](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Postman Badge](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![GitHub Actions Badge](https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions Badge](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
