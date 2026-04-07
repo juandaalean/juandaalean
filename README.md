@@ -1,3 +1,8 @@
+<img src=".github/assets/Perro_oficina.jpg" />
+
+<details>
+  <summary>more details about me</summary>
+  
 # 👋 Hey, I'm Juanda
 
 💼 **Software Developer**
@@ -60,7 +65,7 @@ I'm a developer focused on creating clean, scalable, and maintainable solutions.
 
 * Improving code quality and architecture
 * Writing more maintainable and testable code
-* Deepening knowledge in mobile and backend systems
+* Deepening knowledge in backend and AI systems
 
 ---
 
@@ -70,5 +75,6 @@ I'm a developer focused on creating clean, scalable, and maintainable solutions.
 * 📫 Email: [juanalean2525@gmail.com](mailto:juanalean2525@gmail.com)
 
 ---
+</details>
 
 > "Build. Learn. Improve. Repeat."
