@@ -1,4 +1,4 @@
-<img src=".github/assets/Perro_oficina.jpg" />
+<img src=".github/assets/programer_cat.jpg" />
 
 <details>
   <summary>more details about me</summary>
