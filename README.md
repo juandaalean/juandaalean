@@ -1,9 +1,10 @@
+# 👋 Hey, I'm Juanda
+
 <img src=".github/assets/programer_cat.jpg" />
 
 <details>
   <summary>more details about me</summary>
   
-# 👋 Hey, I'm Juanda
 
 💼 **Software Developer**
 Building real-world applications, improving systems, gaining experience in multiple new technologies and constantly leveling up my skills.
