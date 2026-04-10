@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Juanda
 
-<img src=".github/assets/programer_cat.jpg" />
+<img src=".github/assets/Agua.jpg" />
 
 
 💼 **Software Developer**
@@ -76,4 +76,4 @@ I'm a developer focused on creating clean, scalable, and maintainable solutions.
 ---
 </details>
 
-> "Build. Learn. Improve. Repeat."
+> I love cats!
